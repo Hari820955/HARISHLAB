@@ -2,7 +2,6 @@ streamlit
 pytesseract
 Pillow
 opencv-python
+numpy
 googletrans==4.0.0rc1
-langchain
 openai
-python-dotenv
