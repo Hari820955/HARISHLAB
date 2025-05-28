@@ -1,7 +1,6 @@
 streamlit
+pillow
 pytesseract
-Pillow
-opencv-python
 numpy
-googletrans==4.0.0rc1
+opencv-python-headless==4.7.0.72
 openai
