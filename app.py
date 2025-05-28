@@ -1,8 +1,6 @@
 import streamlit as st
 from PIL import Image
 import pytesseract
-import cv2
-import numpy as np
 from report_analyzer import extract_patient_info, generate_summary
 
 import openai
